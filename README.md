@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/sqlite-collate-depth">sqlite-collate-depth</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/sqlite-collate-depth"><strong>https://abraxaslabs.tech/research/sqlite-collate-depth</strong></a>
+</p>
+
 
 # sqlite-collate-depth
 
